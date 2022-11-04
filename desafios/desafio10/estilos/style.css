@@ -34,7 +34,7 @@ body {
 }
 
 a.externo::after {
-    content: '00A0\1f517';
+    content: '\1f517';
 }
 
 header {
@@ -203,6 +203,7 @@ footer {
     text-align: center;
     font-size: 0.8px;
     padding: 5px;
+    height: 50%;
 }
 
 footer a:hover {
