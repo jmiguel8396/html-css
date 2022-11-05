@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+header {
+
+}
+
+header h1 {
+
+}
+
+header h2 {
+
+}
+
+section {
+
+}
+
+article {
+
+}
+
+p {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    font-family: var(--fonte3);
+    font-size: 3.5vw;
+
+}
+
+footer {
+
+}
+
+footer p {
+
+}
